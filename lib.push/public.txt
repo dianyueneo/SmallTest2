@@ -1,0 +1,5 @@
+int mipmap applabel 0x17020000
+int layout activity_detail 0x17030000
+int dimen activity_horizontal_margin 0x17040000
+int dimen activity_vertical_margin 0x17040001
+int id activity_detail 0x17050000

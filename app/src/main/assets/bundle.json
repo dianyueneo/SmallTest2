@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "main",
+      "pkg": "com.wangpos.by.cashier3.app.main"
+    },
+    {
+      "uri": "mine",
+      "pkg": "com.wangpos.by.cashier3.app.mine"
+    },
+    {
+      "uri": "lib.ga",
+      "pkg": "com.wangpos.by.cashier3.lib.ga"
+    },
+    {
+      "uri": "lib.push",
+      "pkg": "com.wangpos.by.cashier3.lib.push"
+    }
+
+  ]
+}

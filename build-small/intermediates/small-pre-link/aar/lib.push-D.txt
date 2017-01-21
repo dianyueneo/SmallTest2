@@ -1,0 +1,7 @@
+SmallTest2:app+sub:unspecified
+com.android.support:support-vector-drawable:23.4.0
+com.android.support:support-v4:23.4.0
+com.android.support:animated-vector-drawable:23.4.0
+cn.jiguang:jpush:2.1.9
+com.android.support:appcompat-v7:23.4.0
+com.github.dianyueneo:AutoLayout:v1.4.5

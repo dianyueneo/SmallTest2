@@ -1,0 +1,2 @@
+int layout activity_detail 0x17030000
+int id activity_detail 0x17050000
