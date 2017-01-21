@@ -1,4 +1,3 @@
-com.google.firebase:firebase-analytics-impl:9.0.0
 SmallTest2:app+sub:unspecified
 com.android.support:support-v4:23.4.0
 com.google.firebase:firebase-common:9.0.0
@@ -7,10 +6,7 @@ com.android.support:animated-vector-drawable:23.4.0
 com.google.android.gms:play-services-base:9.0.0
 com.google.android.gms:play-services-basement:9.0.0
 com.google.android.gms:play-services-analytics-impl:9.0.0
-com.google.firebase:firebase-analytics:9.0.0
-com.google.firebase:firebase-iid:9.0.0
 com.github.dianyueneo:AutoLayout:v1.4.5
 com.google.android.gms:play-services-analytics:9.0.0
 com.android.support:support-vector-drawable:23.4.0
 com.android.support:appcompat-v7:23.4.0
-com.google.firebase:firebase-core:9.0.0

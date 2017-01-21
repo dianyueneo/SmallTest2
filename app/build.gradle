@@ -51,3 +51,5 @@ dependencies {
 
     compile 'cn.jiguang:jpush:2.1.9'
 }
+
+apply plugin: 'com.google.gms.google-services'

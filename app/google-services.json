@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "1014534338720",
-    "project_id": "cashier3-4cba4"
+    "project_number": "882660609840",
+    "project_id": "firebase-cashier3"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1014534338720:android:f3bc5997127a5a1e",
+        "mobilesdk_app_id": "1:882660609840:android:b8317f0603e537df",
         "android_client_info": {
-          "package_name": "com.wangpos.by.cashier3.lib.ga"
+          "package_name": "com.wangpos.by.cashier3"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDcKDaw0M1BkvhAE6T2dstD1Skh9kcN030"
+          "current_key": "AIzaSyDJJlV6ljCpdmN0Aji2V5o34B-Pa6S1kJw"
         }
       ],
       "services": {
         "analytics_service": {
           "status": 2,
           "analytics_property": {
-            "tracking_id": "UA-90450432-1"
+            "tracking_id": "UA-35920282-45"
           }
         },
         "appinvite_service": {
@@ -35,4 +35,5 @@
     }
   ],
   "configuration_version": "1"
+
 }
